@@ -1,0 +1,8 @@
+
+(main
+  (hokyu 1)
+  (syutugeki (area 1-2))
+  (singeki (yasen false) (damage (taiha 1) (tyuha 1) (syoha 1)))
+)
+
+  
